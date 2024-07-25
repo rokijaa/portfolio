@@ -5,7 +5,7 @@
 
 <main>
   <div>
-    <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
+    <a href="https://github.com/rokija" target="_blank" rel="noreferrer">
       <img src={placeholderLogo} class="logo" alt="Vite Logo" />
     </a>
   </div>
@@ -17,9 +17,9 @@
     height: 20em;
     padding: 5em;
     will-change: filter;
-    transition: filter 300ms;
+    transition: filter 500ms;
   }
   .logo:hover {
-    filter: drop-shadow(0 0 2em #646cffaa);
+    filter: drop-shadow(0 0 2em #ff6464aa);
   }
 </style>
